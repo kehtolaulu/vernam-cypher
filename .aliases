@@ -1,0 +1,6 @@
+alias build="./build"
+alias vernam="java -jar vernam.jar "
+alias encode="java -jar vernam.jar "
+alias decode="java -jar unvernam.jar "
+alias unvernam="java -jar unvernam.jar"
+export KEY="EVTIQWXQVVOPMCXREPYZ"
