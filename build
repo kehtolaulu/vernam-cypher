@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+kotlinc -include-runtime -d vernam.jar src/vernam.kt
+kotlinc -include-runtime -d unvernam.jar src/unvernam.kt
